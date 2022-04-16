@@ -1,0 +1,19 @@
+@font-face{
+    font-family: 'MB';
+    src: url(Montserrat-Bold.ttf);
+}
+
+@font-face{
+    font-family: 'MM';
+    src: url(Montserrat-Medium.ttf);
+}
+
+@font-face{
+    font-family: 'MR';
+    src: url(Montserrat-Regular.ttf);
+}
+
+@font-face{
+    font-family: 'PR';
+    src: url(ProstoOne-Regular.ttf);
+}
